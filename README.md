@@ -1,5 +1,5 @@
 # nao-object-detection
-common objects detection and tracking for NAO robot with YOLO model.
+common objects detection and tracking for NAO robot with YOLO model. the code for yolo model was forked from https://github.com/nilboy/tensorflow-yolo
 
 ## dependence
  - numpy
