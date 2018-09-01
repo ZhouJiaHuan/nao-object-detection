@@ -7,4 +7,6 @@ common objects detection and tracking for NAO robot with YOLO model. The code fo
  - naoqi (refer to the official document for installation https://community.ald.softbankrobotics.com/en/resources/documents/language/en-gb)
  - opencv2 (opencv3 was not tested.)
  
+## run the codes
+please change the naoqi directory and YOLO directory before running the code.
  
